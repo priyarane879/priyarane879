@@ -4,7 +4,7 @@ With 4.5 years of experience in software development and data analytics, I speci
 
 Previously, I developed AI/ML models for a startup, including a deep learning solution to mask Aadhaar numbers for privacy protection. Additionally, I have worked on predictive analytics for Yes Bank, leveraging hypothesis testing to analyze market trends.
 
-🔹 Technical Skills: Python, Web Scraping (BeautifulSoup, Selenium), SQL, Data Visualization (Tableau, Power BI), Machine Learning (Scikit-learn, TensorFlow), Cloud (AWS, GCP)
+🔹 Technical Skills: Python, Web Scraping (BeautifulSoup, Selenium), SQL, Data Visualization (Tableau, Power BI), Machine Learning (Scikit-learn, TensorFlow)
 
 🎯 Currently Learning: Advanced Data Analytics, Soft Skills (Public Speaking, Leadership) through the Elevate Bootcamp
 
